@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\4b6b0d682da0a78b766806cf273e7742\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\af4d4be0b2823d308ff6121d492735ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\a89a7a2e94befe6fa7d3d457889171d9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ac1a265e9b4f718243886d02fa29b310\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\be1a49c535195e6e02f14d9ecf2f1051\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\584991f5ab0357169670ae82c5415d5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\c4715d775c28ac354fd977385bd09354\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.frankiesardo:linearlistview:1.0.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\linearlistview-1.0.1.aar\b31d6a0dfc51f4867d19e0aaee94b4e2\AndroidManifest.xml:1:1-7:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3d52e6fd0693f48596017ada284ba171\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\370a132c44a276fe9e8507359e9c6b0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\802326d2f61894556ffc92d07a312064\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\79b7bc923ad12d76da1f7a581e029766\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ed24536ff0d8b7ad524db8be65a0e6d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\192246f4ca48049bb53fbb0172f56de1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\6635cd7833bdc453972c9cbda990d399\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3fd66779fa61f79f1c262840006c4251\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\bda700dc5cf3b0b632f6d62816a0b117\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fbec65431c40440c9027190f1d2d124c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a818b5b6d52ba27e8e6652b34edab1b9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1efb636d5a6246a8087261a71b3d0946\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ea636fce9e17457f83f60c5c25682a44\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:7:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\a89a7a2e94befe6fa7d3d457889171d9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\a89a7a2e94befe6fa7d3d457889171d9\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\c4715d775c28ac354fd977385bd09354\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\c4715d775c28ac354fd977385bd09354\AndroidManifest.xml:11:5-20
+MERGED from [com.github.frankiesardo:linearlistview:1.0.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\linearlistview-1.0.1.aar\b31d6a0dfc51f4867d19e0aaee94b4e2\AndroidManifest.xml:6:5-20
+MERGED from [com.github.frankiesardo:linearlistview:1.0.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\linearlistview-1.0.1.aar\b31d6a0dfc51f4867d19e0aaee94b4e2\AndroidManifest.xml:6:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\bda700dc5cf3b0b632f6d62816a0b117\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\bda700dc5cf3b0b632f6d62816a0b117\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:9:9-49
+	android:allowBackup
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.manikyapavan.moviesapp.MainActivity
+ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:14:13-39
+	android:name
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.manikyapavan.moviesapp.DetailActivity
+ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:parentActivityName
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:25:13-55
+	android:label
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:23:13-58
+	android:theme
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:24:13-44
+	android:name
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:22:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:26:13-28:83
+	android:value
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:28:17-80
+	android:name
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:27:17-63
+provider#com.example.manikyapavan.moviesapp.database.MovieProvider
+ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:30:9-33:40
+	android:authorities
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:31:13-60
+	android:exported
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml:32:13-51
+uses-sdk
+INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\4b6b0d682da0a78b766806cf273e7742\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\4b6b0d682da0a78b766806cf273e7742\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\af4d4be0b2823d308ff6121d492735ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\af4d4be0b2823d308ff6121d492735ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\a89a7a2e94befe6fa7d3d457889171d9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\a89a7a2e94befe6fa7d3d457889171d9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ac1a265e9b4f718243886d02fa29b310\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ac1a265e9b4f718243886d02fa29b310\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\be1a49c535195e6e02f14d9ecf2f1051\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\be1a49c535195e6e02f14d9ecf2f1051\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\584991f5ab0357169670ae82c5415d5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\584991f5ab0357169670ae82c5415d5d\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\c4715d775c28ac354fd977385bd09354\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\c4715d775c28ac354fd977385bd09354\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.frankiesardo:linearlistview:1.0.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\linearlistview-1.0.1.aar\b31d6a0dfc51f4867d19e0aaee94b4e2\AndroidManifest.xml:4:5-5:47
+MERGED from [com.github.frankiesardo:linearlistview:1.0.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\linearlistview-1.0.1.aar\b31d6a0dfc51f4867d19e0aaee94b4e2\AndroidManifest.xml:4:5-5:47
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3d52e6fd0693f48596017ada284ba171\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3d52e6fd0693f48596017ada284ba171\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\370a132c44a276fe9e8507359e9c6b0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\370a132c44a276fe9e8507359e9c6b0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\802326d2f61894556ffc92d07a312064\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\802326d2f61894556ffc92d07a312064\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\79b7bc923ad12d76da1f7a581e029766\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\79b7bc923ad12d76da1f7a581e029766\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ed24536ff0d8b7ad524db8be65a0e6d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ed24536ff0d8b7ad524db8be65a0e6d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\192246f4ca48049bb53fbb0172f56de1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\192246f4ca48049bb53fbb0172f56de1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\6635cd7833bdc453972c9cbda990d399\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\6635cd7833bdc453972c9cbda990d399\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3fd66779fa61f79f1c262840006c4251\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3fd66779fa61f79f1c262840006c4251\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\bda700dc5cf3b0b632f6d62816a0b117\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\bda700dc5cf3b0b632f6d62816a0b117\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fbec65431c40440c9027190f1d2d124c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fbec65431c40440c9027190f1d2d124c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a818b5b6d52ba27e8e6652b34edab1b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a818b5b6d52ba27e8e6652b34edab1b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1efb636d5a6246a8087261a71b3d0946\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1efb636d5a6246a8087261a71b3d0946\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ea636fce9e17457f83f60c5c25682a44\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Vaibhav Gautam\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ea636fce9e17457f83f60c5c25682a44\AndroidManifest.xml:20:5-44
+INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MoviesAppFinal-master\app\src\main\AndroidManifest.xml

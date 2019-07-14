@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.manikyapavan.moviesapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher_round"
+        android:label="Movies App"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.manikyapavan.moviesapp.MainActivity"
+            android:label="Movies App" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.manikyapavan.moviesapp.DetailActivity"
+            android:label="@string/title_activity_detail"
+            android:parentActivityName="com.example.manikyapavan.moviesapp.MainActivity"
+            android:theme="@style/activity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.manikyapavan.moviesapp.MainActivity" />
+        </activity>
+
+        <provider
+            android:name="com.example.manikyapavan.moviesapp.database.MovieProvider"
+            android:authorities="@string/content_authority"
+            android:exported="false" />
+    </application>
+
+</manifest>

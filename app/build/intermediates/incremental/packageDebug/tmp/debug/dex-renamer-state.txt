@@ -1,0 +1,4 @@
+#Wed Jul 03 21:08:12 IST 2019
+base.0=E\:\\MoviesAppFinal-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
